@@ -213,3 +213,5 @@ MIT
 - [Agent Skills Format](https://agentskills.io/)
 - [Claude Code Documentation](https://docs.anthropic.com/claude/docs)
 - [GitHub Repository](https://github.com/softaworks/agent-toolkit)
+
+<!-- connection check: 2026-11-21 -->
